@@ -1,7 +1,5 @@
 import java.time.LocalDate;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 import br.com.dio.desafio.dominio.Bootcamp;
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Dev;
